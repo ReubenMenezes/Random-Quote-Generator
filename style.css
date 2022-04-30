@@ -28,6 +28,7 @@ a {
 .quote-box {
   width: 1000px;
   height: 250px;
+  padding:10px;
 }
 
 .wrapper {
